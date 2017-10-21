@@ -1,6 +1,8 @@
-## Code for our ICCV paper "Learning a Recurrent Residual Fusion Network for Multimodal Matching".
+## Code for our ICCV paper 
 
-please cite the paper, if the codes has been used for your research.
+"Learning a Recurrent Residual Fusion Network for Multimodal Matching".
+
+please cite this paper, if the codes have been used for your research.
 
 ## The pipeline of RRF-Net
 ![architecture](https://github.com/duxingren14/DualGAN/blob/master/0.png)
@@ -21,6 +23,7 @@ please cite the paper, if the codes has been used for your research.
 
 ## References
 "Learning Deep Structure-Preserving Image-Text Embeddings", CVPR 2016.
+
 "Fisher vectors derived from hybrid gaussian-laplacian mixture models for image annotation", CVPR 2015.
 
 ## Acknowledgments: 
