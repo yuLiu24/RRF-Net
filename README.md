@@ -8,7 +8,7 @@ please cite this paper, if the codes have been used for your research.
 ![architecture](https://github.com/yuLiu24/RRF-Net/blob/master/models/RRF-Net.jpg)
 
 ## Data
-- Please download the Flickr30K and MS-COCO datasets on their websites.
+- Please download the Flickr30K and MS-COCO datasets from their websites.
 - The data is stored in LMDB, like "image feature + text feature + image ID".
 - Each image has five sentence-level descriptions, and so five descriptions corresponds to the same image ID.
 - It is necessary to randomly shuffle the data when converting them into LMDB.
