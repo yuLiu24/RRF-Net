@@ -5,7 +5,7 @@
 please cite this paper, if the codes have been used for your research.
 
 ## The pipeline of RRF-Net
-![architecture](https://github.com/yuLiu24/RRF-Net/blob/master/models/RRF-Net.jpg)
+![architecture](https://github.com/duxingren14/DualGAN/blob/master/0.png)
 
 ## Data
 - Please download the Flickr30K and MS-COCO datasets on their websites.
